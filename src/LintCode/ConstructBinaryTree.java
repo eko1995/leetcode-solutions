@@ -1,3 +1,5 @@
+package LintCode;
+
 /**
  * Definition of TreeNode:
  * public class TreeNode {
@@ -11,7 +13,7 @@
  */
 
 
-public class Solution {
+public class ConstructBinaryTree {
     /**
      *@param preorder : A list of integers that preorder traversal of a tree
      *@param inorder : A list of integers that inorder traversal of a tree
@@ -43,5 +45,14 @@ public class Solution {
         }
 
         return root;
+    }
+
+    public class TreeNode {
+        public int val;
+        public TreeNode left, right;
+        public TreeNode(int val) {
+            this.val = val;
+            this.left = this.right = null;
+        }
     }
 }

@@ -1,4 +1,6 @@
-public class Solution {
+package LintCode;
+
+public class MaxNode {
     /**
      * @param root the root of binary tree
      * @return the max ndoe
@@ -16,5 +18,14 @@ public class Solution {
             max = max.val > right.val ? max:right;
         }
         return max;
+    }
+
+    public class TreeNode {
+        public int val;
+        public TreeNode left, right;
+        public TreeNode(int val) {
+            this.val = val;
+            this.left = this.right = null;
+        }
     }
 }

@@ -1,3 +1,9 @@
+package LintCode;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Stack;
+
 /**
  * Definition of TreeNode:
  * public class TreeNode {
@@ -9,7 +15,7 @@
  *     }
  * }
  */
-public class Solution {
+public class BinaryTreePathSum {
     /**
      * @param root the root of binary tree
      * @param target an integer
@@ -41,6 +47,15 @@ public class Solution {
                 getBinaryTreePathSum(result, root.right, target, stack, sum);
             }
             stack.pop();
+        }
+    }
+
+    public class TreeNode {
+        public int val;
+        public TreeNode left, right;
+        public TreeNode(int val) {
+            this.val = val;
+            this.left = this.right = null;
         }
     }
 }

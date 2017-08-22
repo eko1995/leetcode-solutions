@@ -1,3 +1,7 @@
+package LintCode;
+
+import java.util.Stack;
+
 /**
  * Definition of TreeNode:
  * public class TreeNode {
@@ -9,7 +13,7 @@
  *     }
  * }
  */
-public class Solution {
+public class InvertBinaryTree {
     /**
      * @param root: a TreeNode, the root of the binary tree
      * @return: nothing
@@ -32,5 +36,14 @@ public class Solution {
                 stack.push(node.right);
             }
         }
+    }
+
+    public class TreeNode {
+     public int val;
+      public TreeNode left, right;
+      public TreeNode(int val) {
+          this.val = val;
+          this.left = this.right = null;
+      }
     }
 }

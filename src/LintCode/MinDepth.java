@@ -1,3 +1,5 @@
+package LintCode;
+
 /**
  * Definition of TreeNode:
  * public class TreeNode {
@@ -9,7 +11,7 @@
  *     }
  * }
  */
-public class Solution {
+public class MinDepth {
     /**
      * @param root: The root of binary tree.
      * @return: An integer.
@@ -33,5 +35,14 @@ public class Solution {
         }
 
         return left < right ? left : right;
+    }
+
+    public class TreeNode {
+        public int val;
+        public TreeNode left, right;
+        public TreeNode(int val) {
+            this.val = val;
+            this.left = this.right = null;
+        }
     }
 }

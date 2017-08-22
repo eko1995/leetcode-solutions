@@ -1,3 +1,5 @@
+package LintCode;
+
 /**
  * Definition of SegmentTreeNode:
  * public class SegmentTreeNode {
@@ -11,7 +13,7 @@
  *     }
  * }
  */
-public class Solution {
+public class SegmentTreeModify {
     /**
      *@param root, index, value: The root of segment tree and
      *@ change the node's value with [index, index] to the new given value
@@ -30,5 +32,17 @@ public class Solution {
         root.max = Math.max(root.left.max, root.right.max);
 
         return;
+    }
+
+    public class SegmentTreeNode {
+        public int start, end, max;
+        public SegmentTreeNode left, right;
+
+        public SegmentTreeNode(int start, int end, int max) {
+            this.start = start;
+            this.end = end;
+            this.left = this.right = null;
+            this.max = max;
+        }
     }
 }

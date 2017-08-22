@@ -1,3 +1,10 @@
+package LintCode;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+
 /**
  * Definition of TreeNode:
  * public class TreeNode {
@@ -11,7 +18,7 @@
  */
 
 
-public class Solution {
+public class BinaryTreeLevelOrderTraversal {
     /**
      * @param root: The root of binary tree.
      * @return: Level order a list of lists of integer
@@ -44,5 +51,14 @@ public class Solution {
         }
         list.add(newList);
         buildLevelOrder(queue, list);
+    }
+
+    public class TreeNode {
+        public int val;
+        public TreeNode left, right;
+        public TreeNode(int val) {
+            this.val = val;
+            this.left = this.right = null;
+        }
     }
 }

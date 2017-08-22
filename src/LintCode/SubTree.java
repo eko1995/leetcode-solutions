@@ -1,15 +1,20 @@
+package LintCode;
+
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Definition of TreeNode:
  * public class TreeNode {
- *     public int val;
- *     public TreeNode left, right;
- *     public TreeNode(int val) {
- *         this.val = val;
- *         this.left = this.right = null;
- *     }
+ * public int val;
+ * public TreeNode left, right;
+ * public TreeNode(int val) {
+ * this.val = val;
+ * this.left = this.right = null;
+ * }
  * }
  */
-public class Solution {
+public class SubTree {
     /**
      * @param T1, T2: The roots of binary tree.
      * @return: True if T2 is a subtree of T1, or false.
@@ -27,9 +32,9 @@ public class Solution {
         midOverview(T1, list1);
         midOverview(T2, list2);
         int j = 0;
-        for (int i = 0;i <= list1.size()-list2.size(); i++) {
-            for (;j < list2.size(); j++) {
-                if (list1.get(i+j).val == list2.get(j).val) {
+        for (int i = 0; i <= list1.size() - list2.size(); i++) {
+            for (; j < list2.size(); j++) {
+                if (list1.get(i + j).val == list2.get(j).val) {
                     continue;
                 } else {
                     j = 0;
@@ -57,5 +62,15 @@ public class Solution {
             list.add(new TreeNode(0));
         }
         return;
+    }
+
+    public class TreeNode {
+        public int val;
+        public TreeNode left, right;
+
+        public TreeNode(int val) {
+            this.val = val;
+            this.left = this.right = null;
+        }
     }
 }

@@ -5,9 +5,9 @@ import java.util.List;
 
 public class ConvertSortedListToBinarySearchTree {
     public TreeNode sortedListToBST(ListNode head) {
-        if(head == null) return null;
+        if (head == null) return null;
         List<Integer> list = new ArrayList<>();
-        while(head != null) {
+        while (head != null) {
             list.add(head.val);
             head = head.next;
         }
@@ -18,7 +18,7 @@ public class ConvertSortedListToBinarySearchTree {
         if (start == end) {
             return null;
         } else {
-            int mid = (start + end)/2;
+            int mid = (start + end) / 2;
             TreeNode root = new TreeNode(list.get(mid));
             root.right = convert(list, mid + 1, end);
             root.left = convert(list, start, mid);

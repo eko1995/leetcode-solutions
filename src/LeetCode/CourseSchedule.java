@@ -5,7 +5,7 @@ import java.util.*;
 public class CourseSchedule {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         ArrayList<> grah = new ArrayList[numCourses];
-        for (int i = 0; i< prerequisites.length; i++) {
+        for (int i = 0; i < prerequisites.length; i++) {
             grah[prerequisites[i][0]].add(prerequisites[i][1]);
         }
         boolean[] visited = new boolean[numCourses];
@@ -24,7 +24,7 @@ public class CourseSchedule {
         }
 
         for (int j = 0; j < grah[i].size(); j++) {
-            int target = (int)grah[i].get(j);
+            int target = (int) grah[i].get(j);
             if (!dfs(grah, visited, target)) {
                 return false;
             }

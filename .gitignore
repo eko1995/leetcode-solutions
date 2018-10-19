@@ -1,4 +1,4 @@
 .idea/
-DataStructure.iml
+*.iml
 /src/LintCode/.idea/
 /out/

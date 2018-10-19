@@ -1,8 +1,3 @@
-package LeetCode;
-
-import java.util.HashSet;
-import java.util.Set;
-
 class Solution {
     public int subarrayBitwiseORs(int[] A) {
         Set<Integer> res = new HashSet<>(), cur = new HashSet<>(), cur2;

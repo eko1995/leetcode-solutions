@@ -1,5 +1,3 @@
-package LeetCode;
-
 class Solution {
     public int longestMountain(int[] A) {
         if (A.length < 3) return 0;

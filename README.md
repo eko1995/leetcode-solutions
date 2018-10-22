@@ -18,5 +18,11 @@ LeetCode Solutions
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[JAVA](./src/leetcode/DivideTwoIntegers.java)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JAVA](./src/leetcode/SearchinRotatedSortedArray.java)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JAVA](./src/leetcode/FindFirstandLastPositionofElementinSortedArray.java)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JAVA](./src/leetcode/SearchInsertPosition.java)|Easy|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JAVA](./src/leetcode/ValidSudoku.java)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[JAVA](./src/leetcode/Permutations.java)|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[JAVA](./src/leetcode/RotateImage.java)|Medium|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JAVA](./src/leetcode/GroupAnagrams.java)|Medium|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[JAVA](./src/leetcode/PowXn.java)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeLevelOrderTraversal.java)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeZigZagLevelOrderTraversal.java)|Medium|

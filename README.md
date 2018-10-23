@@ -26,5 +26,9 @@ LeetCode Solutions
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[JAVA](./src/leetcode/PowXn.java)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JAVA](./src/leetcode/JumpGame.java)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[JAVA](./src/leetcode/MergeIntervals.java)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[JAVA](./src/leetcode/UniquePaths.java)|Medium|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[JAVA](./src/leetcode/UniquePathsII.java|Medium|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[JAVA](./src/leetcode/PlusOne.java)|Easy|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[JAVA](./src/leetcode/SetMatrixZeroes.java)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeLevelOrderTraversal.java)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeZigZagLevelOrderTraversal.java)|Medium|

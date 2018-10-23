@@ -24,5 +24,7 @@ LeetCode Solutions
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[JAVA](./src/leetcode/RotateImage.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JAVA](./src/leetcode/GroupAnagrams.java)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[JAVA](./src/leetcode/PowXn.java)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JAVA](./src/leetcode/JumpGame.java)|Medium|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[JAVA](./src/leetcode/MergeIntervals.java)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeLevelOrderTraversal.java)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeZigZagLevelOrderTraversal.java)|Medium|

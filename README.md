@@ -30,5 +30,8 @@ LeetCode Solutions
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[JAVA](./src/leetcode/UniquePathsII.java)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JAVA](./src/leetcode/PlusOne.java)|Easy|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[JAVA](./src/leetcode/SetMatrixZeroes.java)|Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[JAVA](./src/leetcode/Searcha2DMatrix.java)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[JAVA](./src/leetcode/SortColors.java)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/)|[JAVA](./src/leetcode/Subsets.java)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeLevelOrderTraversal.java)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeZigZagLevelOrderTraversal.java)|Medium|

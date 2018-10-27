@@ -34,6 +34,11 @@ LeetCode Solutions
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[JAVA](./src/leetcode/SortColors.java)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[JAVA](./src/leetcode/Subsets.java)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[JAVA](./src/leetcode/WordSearch.java)|Medium|
-|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[JAVA](./src/leetcode/Remove DuplicatesfromSortedArrayII.java)|Medium|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[JAVA](./src/leetcode/RemoveDuplicatesfromSortedArrayII.java)|Medium|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[JAVA](./src/leetcode/SearchinRotatedSortedArrayII.java)|Medium|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JAVA](./src/leetcode/RemoveDuplicatesfromSortedList.java)|Easy|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[JAVA](./src/leetcode/DecodeWays.java)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[JAVA](./src/leetcode/BinaryTreeInorderTraversal.java)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[JAVA](./src/leetcode/ValidateBinarySearchTree.java)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeLevelOrderTraversal.java)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeZigZagLevelOrderTraversal.java)|Medium|

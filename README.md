@@ -42,3 +42,6 @@ LeetCode Solutions
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[JAVA](./src/leetcode/ValidateBinarySearchTree.java)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeLevelOrderTraversal.java)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeZigZagLevelOrderTraversal.java)|Medium|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[JAVA](./src/leetcode/ConstructBinaryTreefromPreorderandInorderTraversal.java)|Medium|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JAVA](./src/leetcode/ConvertSortedArraytoBinarySearchTree.java)|Medium|
+

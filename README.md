@@ -44,4 +44,7 @@ LeetCode Solutions
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeZigZagLevelOrderTraversal.java)|Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[JAVA](./src/leetcode/ConstructBinaryTreefromPreorderandInorderTraversal.java)|Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JAVA](./src/leetcode/ConvertSortedArraytoBinarySearchTree.java)|Medium|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[JAVA](./src/leetcode/PopulatingNextRightPointersinEachNode.java)|Medium|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JAVA](./src/leetcode/PascalsTriangle.java)|Easy|
+
 

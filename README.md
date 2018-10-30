@@ -46,5 +46,8 @@ LeetCode Solutions
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JAVA](./src/leetcode/ConvertSortedArraytoBinarySearchTree.java)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[JAVA](./src/leetcode/PopulatingNextRightPointersinEachNode.java)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JAVA](./src/leetcode/PascalsTriangle.java)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JAVA](./src/leetcode/BestTimetoBuyandSellStock.java)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JAVA](./src/leetcode/BestTimetoBuyandSellStockII.java)|Easy|
+|123|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JAVA](./src/leetcode/ValidPalindrome.java)|Easy|
 
 

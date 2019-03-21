@@ -2,3 +2,4 @@
 *.iml
 /src/LintCode/.idea/
 /out/
+.DS_Store

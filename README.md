@@ -11,7 +11,10 @@ LeetCode Solutions
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JAVA](./src/leetcode/LongestSubstringWithoutRepeatingCharacters.java)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[JAVA](./src/leetcode/LongestPalindromicSubstring.java)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[JAVA](./src/leetcode/ZigZagConversion.java)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JAVA](./src/leetcode/ReverseInteger.java)|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JAVA](./src/leetcode/PalindromeNumber.java)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JAVA](./src/leetcode/ContainerWithMostWater.java)|Medium|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[JAVA](./src/leetcode/IntegerToRoman.java)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JAVA](./src/leetcode/LetterCombinationsofaPhoneNumber.java)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JAVA](./src/leetcode/RemoveNthNodeFromEndofList.java)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JAVA](./src/leetcode/GenerateParentheses.java)|Medium|

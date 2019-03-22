@@ -1,7 +1,8 @@
 package leetcode;
 
+import java.util.HashMap;
 import java.util.LinkedList;
-import java.util.List;
+import java.util.Map;
 
 /**
  * @author eko
@@ -37,8 +38,15 @@ import java.util.List;
  * Output: true
  */
 public class ValidParentheses {
+    public static Map<Character, Character> parentheses = new HashMap<>();
+    static {
+        parentheses.put('[', ']');
+        parentheses.put('{', '}');
+        parentheses.put('(', ')');
+    }
+
     public static void main(String[] args) {
-        String test = "{[]}";
+        String test = "([)]";
         System.out.println(new ValidParentheses().isValid(test));
     }
 
@@ -46,9 +54,19 @@ public class ValidParentheses {
         if (s == null || s.length() == 0) {
             return true;
         }
-        List<String> stack = new LinkedList<>();
-        for (int i = 1; i < s.length(); i++) {
-
+        LinkedList<Character> stack = new LinkedList<>();
+        for (int i = 0; i < s.length(); i++) {
+            if (parentheses.containsKey(s.charAt(i))) {
+                stack.push(s.charAt(i));
+            } else {
+                if (stack.peek() == null || parentheses.get(stack.peek()) != s.charAt(i)) {
+                    return false;
+                } else {
+                    stack.pop();
+                }
+            }
         }
+
+        return stack.isEmpty();
     }
 }

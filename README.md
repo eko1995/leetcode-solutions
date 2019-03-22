@@ -17,7 +17,7 @@ LeetCode Solutions
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[JAVA](./src/leetcode/IntegerToRoman.java)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JAVA](./src/leetcode/LetterCombinationsofaPhoneNumber.java)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JAVA](./src/leetcode/RemoveNthNodeFromEndofList.java)|Medium|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JAVA](./src/leetcode/ValidParentheses.java)|Easy]|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JAVA](./src/leetcode/ValidParentheses.java)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JAVA](./src/leetcode/GenerateParentheses.java)|Medium|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[JAVA](./src/leetcode/DivideTwoIntegers.java)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JAVA](./src/leetcode/SearchinRotatedSortedArray.java)|Medium|

@@ -15,11 +15,14 @@ LeetCode Solutions
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JAVA](./src/leetcode/PalindromeNumber.java)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JAVA](./src/leetcode/ContainerWithMostWater.java)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[JAVA](./src/leetcode/IntegerToRoman.java)|Medium|
+|15|[3Sum](https://leetcode.com/problems/3sum/)|[JAVA](./src/leetcode/ThreeSum.java)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JAVA](./src/leetcode/LetterCombinationsofaPhoneNumber.java)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JAVA](./src/leetcode/RemoveNthNodeFromEndofList.java)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JAVA](./src/leetcode/ValidParentheses.java)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JAVA](./src/leetcode/MergeTwoSortedLists.java)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JAVA](./src/leetcode/GenerateParentheses.java)|Medium|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[JAVA](./src/leetcode/DivideTwoIntegers.java)|Medium|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[JAVA](./src/leetcode/NextPermutation.java)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JAVA](./src/leetcode/SearchinRotatedSortedArray.java)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JAVA](./src/leetcode/FindFirstandLastPositionofElementinSortedArray.java)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JAVA](./src/leetcode/SearchInsertPosition.java)|Easy|

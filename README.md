@@ -27,6 +27,7 @@ LeetCode Solutions
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JAVA](./src/leetcode/FindFirstandLastPositionofElementinSortedArray.java)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JAVA](./src/leetcode/SearchInsertPosition.java)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JAVA](./src/leetcode/ValidSudoku.java)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[JAVA](./src/leetcode/CombinationSum.java)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[JAVA](./src/leetcode/Permutations.java)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[JAVA](./src/leetcode/RotateImage.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JAVA](./src/leetcode/GroupAnagrams.java)|Medium|

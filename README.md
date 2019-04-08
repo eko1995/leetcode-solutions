@@ -37,6 +37,7 @@ LeetCode Solutions
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[JAVA](./src/leetcode/MergeIntervals.java)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[JAVA](./src/leetcode/UniquePaths.java)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[JAVA](./src/leetcode/UniquePathsII.java)|Medium|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[JAVA](./src/leetcode/MinimumPathSum.java)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JAVA](./src/leetcode/PlusOne.java)|Easy|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[JAVA](./src/leetcode/SetMatrixZeroes.java)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[JAVA](./src/leetcode/Searcha2DMatrix.java)|Medium|

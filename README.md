@@ -32,6 +32,7 @@ LeetCode Solutions
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[JAVA](./src/leetcode/RotateImage.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JAVA](./src/leetcode/GroupAnagrams.java)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[JAVA](./src/leetcode/PowXn.java)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JAVA](./src/leetcode/MaximumSubarray.java)|Easy|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JAVA](./src/leetcode/JumpGame.java)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[JAVA](./src/leetcode/MergeIntervals.java)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[JAVA](./src/leetcode/UniquePaths.java)|Medium|

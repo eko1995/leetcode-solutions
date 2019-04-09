@@ -50,6 +50,7 @@ LeetCode Solutions
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JAVA](./src/leetcode/RemoveDuplicatesfromSortedList.java)|Easy|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[JAVA](./src/leetcode/DecodeWays.java)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[JAVA](./src/leetcode/BinaryTreeInorderTraversal.java)|Medium|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[JAVA](./src/leetcode/UniqueBinarySearchTrees)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[JAVA](./src/leetcode/ValidateBinarySearchTree.java)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeLevelOrderTraversal.java)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeZigZagLevelOrderTraversal.java)|Medium|

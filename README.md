@@ -55,6 +55,7 @@ LeetCode Solutions
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JAVA](./src/leetcode/SymmetricTree.java)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeLevelOrderTraversal.java)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[JAVA](./src/leetcode/BinaryTreeZigZagLevelOrderTraversal.java)|Medium|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JAVA](./src/leetcode/MaximumDepthOfBinaryTree.java)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[JAVA](./src/leetcode/ConstructBinaryTreefromPreorderandInorderTraversal.java)|Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JAVA](./src/leetcode/ConvertSortedArraytoBinarySearchTree.java)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[JAVA](./src/leetcode/PopulatingNextRightPointersinEachNode.java)|Medium|

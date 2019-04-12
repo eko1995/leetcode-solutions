@@ -39,7 +39,7 @@ LeetCode Solutions
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[JAVA](./src/leetcode/UniquePathsII.java)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[JAVA](./src/leetcode/MinimumPathSum.java)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JAVA](./src/leetcode/PlusOne.java)|Easy|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JAVA](./src/leetcode/ClimbingStairs.java|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JAVA](./src/leetcode/ClimbingStairs.java)|Easy|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[JAVA](./src/leetcode/SetMatrixZeroes.java)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[JAVA](./src/leetcode/Searcha2DMatrix.java)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[JAVA](./src/leetcode/SortColors.java)|Medium|
@@ -58,6 +58,7 @@ LeetCode Solutions
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JAVA](./src/leetcode/MaximumDepthOfBinaryTree.java)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[JAVA](./src/leetcode/ConstructBinaryTreefromPreorderandInorderTraversal.java)|Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JAVA](./src/leetcode/ConvertSortedArraytoBinarySearchTree.java)|Medium|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[JAVA](./src/leetcode/FlattenBinaryTreeToLinkedList.java)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[JAVA](./src/leetcode/PopulatingNextRightPointersinEachNode.java)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JAVA](./src/leetcode/PascalsTriangle.java)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JAVA](./src/leetcode/BestTimetoBuyandSellStock.java)|Easy|

@@ -39,6 +39,7 @@ LeetCode Solutions
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[JAVA](./src/leetcode/UniquePathsII.java)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[JAVA](./src/leetcode/MinimumPathSum.java)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JAVA](./src/leetcode/PlusOne.java)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[JAVA](./src/leetcode/AddBinary.java)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JAVA](./src/leetcode/ClimbingStairs.java)|Easy|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[JAVA](./src/leetcode/SetMatrixZeroes.java)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[JAVA](./src/leetcode/Searcha2DMatrix.java)|Medium|

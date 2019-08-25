@@ -31,31 +31,27 @@ public class SpiralMatrixII {
     public static int[][] generateMatrix(int n) {
         if (n == 0) return new int[0][0];
         int[][] matrix = new int[n][n];
-        List<Integer> list = new ArrayList<>();
-        for (int i = 0; i < n * n; i++) {
-            list.add(i + 1);
-        }
         int index = n;
-        int count = 0;
+        int count = 1;
         int layer = 0;
-        while (count < n * n) {
+        while (count <= n * n) {
             if (index == 1) {
-                matrix[index][index] = list.get(count++);
+                matrix[layer][layer] = count++;
             } else {
                 for (int i = 0; i < index - 1; i++) {
-                    matrix[layer][layer + i] = list.get(count++);
+                    matrix[layer][layer + i] = count++;
                 }
 
                 for (int i = 0; i < index - 1; i++) {
-                    matrix[layer + i][layer + index - 1] = list.get(count++);
+                    matrix[layer + i][layer + index - 1] = count++;
                 }
 
                 for (int i = index - 1; i > 0; i--) {
-                    matrix[layer + index - 1][layer + i] = list.get(count++);
+                    matrix[layer + index - 1][layer + i] = count++;
                 }
 
                 for (int i = index - 1; i > 0; i--) {
-                    matrix[layer + i][layer] = list.get(count++);
+                    matrix[layer + i][layer] = count++;
                 }
             }
             index -= 2;

@@ -36,7 +36,8 @@ LeetCode Solutions
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JAVA](./src/leetcode/SpiralMatrix.java)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JAVA](./src/leetcode/JumpGame.java)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[JAVA](./src/leetcode/MergeIntervals.java)|Medium|
-[59][Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[JAVA](./src/leetcode/SpiralMatrixII.java)
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[JAVA](./src/leetcode/SpiralMatrixII.java)|Medium|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[JAVA](./src/leetcode/PermutationSequence.java)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[JAVA](./src/leetcode/UniquePaths.java)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[JAVA](./src/leetcode/UniquePathsII.java)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[JAVA](./src/leetcode/MinimumPathSum.java)|Medium|

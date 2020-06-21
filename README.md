@@ -74,3 +74,4 @@ LeetCode Solutions
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[JAVA](./src/leetcode/WordBreak.java)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JAVA](./src/leetcode/LinkedListCycle.java)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[JAVA](./src/leetcode/LinkedListCycleII.java)|Medium|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[JAVA](./src/leetcode/LRUCache.java)|Medium|

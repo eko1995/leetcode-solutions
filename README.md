@@ -75,3 +75,4 @@ LeetCode Solutions
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JAVA](./src/leetcode/LinkedListCycle.java)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[JAVA](./src/leetcode/LinkedListCycleII.java)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[JAVA](./src/leetcode/LRUCache.java)|Medium|
+|148|[Sort List](https://leetcode-cn.com/problems/sort-list/)|[JAVA](./src/leetcode/SortList.java)|Medium|
